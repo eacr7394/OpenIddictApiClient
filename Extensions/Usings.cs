@@ -1,0 +1,9 @@
+﻿global using Microsoft.AspNetCore.Http;
+global using Microsoft.AspNetCore.Routing;
+global using Microsoft.Extensions.Logging;
+global using System.Security;
+global using System.Security.Cryptography;
+global using System.Text;
+global using Newtonsoft.Json;
+global using Microsoft.Extensions.Configuration;
+global using System.Security.Claims;

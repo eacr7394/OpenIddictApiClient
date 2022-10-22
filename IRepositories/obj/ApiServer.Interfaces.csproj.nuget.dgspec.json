@@ -1,0 +1,446 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\Interfaces\\ApiServer.Interfaces.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\AppSetting\\ApiServer.AppSetting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\AppSetting\\ApiServer.AppSetting.csproj",
+        "projectName": "ApiServer.AppSetting",
+        "projectPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\AppSetting\\ApiServer.AppSetting.csproj",
+        "packagesPath": "C:\\Users\\Edwin Cepeda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\AppSetting\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Edwin Cepeda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\Extensions\\ApiServer.Extensions.csproj": {
+                "projectPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\Extensions\\ApiServer.Extensions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "JWT.Extensions.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\CustomTypes\\ApiServer.CustomTypes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\CustomTypes\\ApiServer.CustomTypes.csproj",
+        "projectName": "ApiServer.CustomTypes",
+        "projectPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\CustomTypes\\ApiServer.CustomTypes.csproj",
+        "packagesPath": "C:\\Users\\Edwin Cepeda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\CustomTypes\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Edwin Cepeda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\Extensions\\ApiServer.Extensions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\Extensions\\ApiServer.Extensions.csproj",
+        "projectName": "ApiServer.Extensions",
+        "projectPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\Extensions\\ApiServer.Extensions.csproj",
+        "packagesPath": "C:\\Users\\Edwin Cepeda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\Extensions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Edwin Cepeda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "JWT": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "JWT.Extensions.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Identity.Web": {
+              "target": "Package",
+              "version": "[1.25.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\Interfaces\\ApiServer.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\Interfaces\\ApiServer.Interfaces.csproj",
+        "projectName": "ApiServer.Interfaces",
+        "projectPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\Interfaces\\ApiServer.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Edwin Cepeda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Edwin Cepeda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\CustomTypes\\ApiServer.CustomTypes.csproj": {
+                "projectPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\CustomTypes\\ApiServer.CustomTypes.csproj"
+              },
+              "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\LoggerManager\\ApiServer.LoggerManager.csproj": {
+                "projectPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\LoggerManager\\ApiServer.LoggerManager.csproj"
+              },
+              "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\Model\\ApiServer.Model.csproj": {
+                "projectPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\Model\\ApiServer.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\LoggerManager\\ApiServer.LoggerManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\LoggerManager\\ApiServer.LoggerManager.csproj",
+        "projectName": "ApiServer.LoggerManager",
+        "projectPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\LoggerManager\\ApiServer.LoggerManager.csproj",
+        "packagesPath": "C:\\Users\\Edwin Cepeda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\LoggerManager\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Edwin Cepeda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\CustomTypes\\ApiServer.CustomTypes.csproj": {
+                "projectPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\CustomTypes\\ApiServer.CustomTypes.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\Model\\ApiServer.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\Model\\ApiServer.Model.csproj",
+        "projectName": "ApiServer.Model",
+        "projectPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\Model\\ApiServer.Model.csproj",
+        "packagesPath": "C:\\Users\\Edwin Cepeda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Edwin Cepeda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\AppSetting\\ApiServer.AppSetting.csproj": {
+                "projectPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\PlainDigitalSignatureApi\\ApiServer\\AppSetting\\ApiServer.AppSetting.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.CodeAnalysis.Workspaces.Common": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Nancy": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql.Design": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql.Json.Microsoft": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql.Json.Newtonsoft": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Pomelo.JsonObject": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

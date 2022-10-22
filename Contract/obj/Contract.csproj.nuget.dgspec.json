@@ -1,0 +1,580 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\Contract\\Contract.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\AppSetting\\AppSetting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\AppSetting\\AppSetting.csproj",
+        "projectName": "AppSetting",
+        "projectPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\AppSetting\\AppSetting.csproj",
+        "packagesPath": "C:\\Users\\Edwin Cepeda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\AppSetting\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Edwin Cepeda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\Extensions\\Extensions.csproj": {
+                "projectPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\Extensions\\Extensions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "JWT.Extensions.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\Contract\\Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\Contract\\Contract.csproj",
+        "projectName": "Contract",
+        "projectPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\Contract\\Contract.csproj",
+        "packagesPath": "C:\\Users\\Edwin Cepeda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Edwin Cepeda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\IContract\\IContract.csproj": {
+                "projectPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\IContract\\IContract.csproj"
+              },
+              "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\Repositories\\Repositories.csproj": {
+                "projectPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\Repositories\\Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Fody": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.6.4, )"
+            },
+            "NullGuard.Fody": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "RuntimeNullables.Fody": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\Extensions\\Extensions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\Extensions\\Extensions.csproj",
+        "projectName": "Extensions",
+        "projectPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\Extensions\\Extensions.csproj",
+        "packagesPath": "C:\\Users\\Edwin Cepeda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\Extensions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Edwin Cepeda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "JWT": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "JWT.Extensions.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Identity.Web": {
+              "target": "Package",
+              "version": "[1.25.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\IContract\\IContract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\IContract\\IContract.csproj",
+        "projectName": "IContract",
+        "projectPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\IContract\\IContract.csproj",
+        "packagesPath": "C:\\Users\\Edwin Cepeda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\IContract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Edwin Cepeda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\Repositories\\Repositories.csproj": {
+                "projectPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\Repositories\\Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Fody": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.6.4, )"
+            },
+            "NullGuard.Fody": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "RuntimeNullables.Fody": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\IRepositories\\IRepositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\IRepositories\\IRepositories.csproj",
+        "projectName": "IRepositories",
+        "projectPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\IRepositories\\IRepositories.csproj",
+        "packagesPath": "C:\\Users\\Edwin Cepeda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\IRepositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Edwin Cepeda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\OrmModel\\OrmModel.csproj": {
+                "projectPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\OrmModel\\OrmModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Fody": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.6.4, )"
+            },
+            "NullGuard.Fody": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "RuntimeNullables.Fody": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\OrmModel\\OrmModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\OrmModel\\OrmModel.csproj",
+        "projectName": "OrmModel",
+        "projectPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\OrmModel\\OrmModel.csproj",
+        "packagesPath": "C:\\Users\\Edwin Cepeda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\OrmModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Edwin Cepeda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\AppSetting\\AppSetting.csproj": {
+                "projectPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\AppSetting\\AppSetting.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Fody": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.6.4, )"
+            },
+            "Microsoft.CodeAnalysis.Workspaces.Common": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Nancy": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "NullGuard.Fody": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql.Design": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql.Json.Microsoft": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql.Json.Newtonsoft": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Pomelo.JsonObject": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            },
+            "RuntimeNullables.Fody": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\Repositories\\Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\Repositories\\Repositories.csproj",
+        "projectName": "Repositories",
+        "projectPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\Repositories\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\Edwin Cepeda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Edwin Cepeda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\IRepositories\\IRepositories.csproj": {
+                "projectPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\IRepositories\\IRepositories.csproj"
+              },
+              "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\OrmModel\\OrmModel.csproj": {
+                "projectPath": "C:\\Users\\Edwin Cepeda\\source\\repos\\OpenIddictApiClient\\OrmModel\\OrmModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Fody": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.6.4, )"
+            },
+            "NullGuard.Fody": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "RuntimeNullables.Fody": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

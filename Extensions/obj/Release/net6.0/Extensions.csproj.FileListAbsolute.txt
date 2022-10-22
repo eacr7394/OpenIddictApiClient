@@ -1,0 +1,12 @@
+C:\Users\Edwin Cepeda\source\repos\PlainDigitalSignatureApi\Extensions\bin\Release\net6.0\Extensions.deps.json
+C:\Users\Edwin Cepeda\source\repos\PlainDigitalSignatureApi\Extensions\bin\Release\net6.0\Extensions.dll
+C:\Users\Edwin Cepeda\source\repos\PlainDigitalSignatureApi\Extensions\bin\Release\net6.0\Extensions.pdb
+C:\Users\Edwin Cepeda\source\repos\PlainDigitalSignatureApi\Extensions\obj\Release\net6.0\Extensions.csproj.AssemblyReference.cache
+C:\Users\Edwin Cepeda\source\repos\PlainDigitalSignatureApi\Extensions\obj\Release\net6.0\Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edwin Cepeda\source\repos\PlainDigitalSignatureApi\Extensions\obj\Release\net6.0\Extensions.AssemblyInfoInputs.cache
+C:\Users\Edwin Cepeda\source\repos\PlainDigitalSignatureApi\Extensions\obj\Release\net6.0\Extensions.AssemblyInfo.cs
+C:\Users\Edwin Cepeda\source\repos\PlainDigitalSignatureApi\Extensions\obj\Release\net6.0\Extensions.csproj.CoreCompileInputs.cache
+C:\Users\Edwin Cepeda\source\repos\PlainDigitalSignatureApi\Extensions\obj\Release\net6.0\Extensions.dll
+C:\Users\Edwin Cepeda\source\repos\PlainDigitalSignatureApi\Extensions\obj\Release\net6.0\refint\Extensions.dll
+C:\Users\Edwin Cepeda\source\repos\PlainDigitalSignatureApi\Extensions\obj\Release\net6.0\Extensions.pdb
+C:\Users\Edwin Cepeda\source\repos\PlainDigitalSignatureApi\Extensions\obj\Release\net6.0\ref\Extensions.dll

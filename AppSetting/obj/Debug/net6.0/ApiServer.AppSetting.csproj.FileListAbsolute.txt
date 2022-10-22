@@ -1,0 +1,15 @@
+C:\Users\Edwin Cepeda\source\repos\PlainDigitalSignatureApi\ApiServer\AppSetting\bin\Debug\net6.0\ApiServer.AppSetting.deps.json
+C:\Users\Edwin Cepeda\source\repos\PlainDigitalSignatureApi\ApiServer\AppSetting\bin\Debug\net6.0\ApiServer.AppSetting.dll
+C:\Users\Edwin Cepeda\source\repos\PlainDigitalSignatureApi\ApiServer\AppSetting\bin\Debug\net6.0\ApiServer.AppSetting.pdb
+C:\Users\Edwin Cepeda\source\repos\PlainDigitalSignatureApi\ApiServer\AppSetting\bin\Debug\net6.0\ApiServer.Extensions.dll
+C:\Users\Edwin Cepeda\source\repos\PlainDigitalSignatureApi\ApiServer\AppSetting\bin\Debug\net6.0\ApiServer.Extensions.pdb
+C:\Users\Edwin Cepeda\source\repos\PlainDigitalSignatureApi\ApiServer\AppSetting\obj\Debug\net6.0\ApiServer.AppSetting.csproj.AssemblyReference.cache
+C:\Users\Edwin Cepeda\source\repos\PlainDigitalSignatureApi\ApiServer\AppSetting\obj\Debug\net6.0\ApiServer.AppSetting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edwin Cepeda\source\repos\PlainDigitalSignatureApi\ApiServer\AppSetting\obj\Debug\net6.0\ApiServer.AppSetting.AssemblyInfoInputs.cache
+C:\Users\Edwin Cepeda\source\repos\PlainDigitalSignatureApi\ApiServer\AppSetting\obj\Debug\net6.0\ApiServer.AppSetting.AssemblyInfo.cs
+C:\Users\Edwin Cepeda\source\repos\PlainDigitalSignatureApi\ApiServer\AppSetting\obj\Debug\net6.0\ApiServer.AppSetting.csproj.CoreCompileInputs.cache
+C:\Users\Edwin Cepeda\source\repos\PlainDigitalSignatureApi\ApiServer\AppSetting\obj\Debug\net6.0\ApiServer.AppSetting.csproj.CopyComplete
+C:\Users\Edwin Cepeda\source\repos\PlainDigitalSignatureApi\ApiServer\AppSetting\obj\Debug\net6.0\ApiServer.AppSetting.dll
+C:\Users\Edwin Cepeda\source\repos\PlainDigitalSignatureApi\ApiServer\AppSetting\obj\Debug\net6.0\refint\ApiServer.AppSetting.dll
+C:\Users\Edwin Cepeda\source\repos\PlainDigitalSignatureApi\ApiServer\AppSetting\obj\Debug\net6.0\ApiServer.AppSetting.pdb
+C:\Users\Edwin Cepeda\source\repos\PlainDigitalSignatureApi\ApiServer\AppSetting\obj\Debug\net6.0\ref\ApiServer.AppSetting.dll

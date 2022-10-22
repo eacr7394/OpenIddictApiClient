@@ -1,0 +1,5 @@
+C:\Users\Edwin Cepeda\source\repos\PlainDigitalSignatureApi\Repositories\obj\Release\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\Edwin Cepeda\source\repos\PlainDigitalSignatureApi\Repositories\obj\Release\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edwin Cepeda\source\repos\PlainDigitalSignatureApi\Repositories\obj\Release\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\Edwin Cepeda\source\repos\PlainDigitalSignatureApi\Repositories\obj\Release\net6.0\Repositories.AssemblyInfo.cs
+C:\Users\Edwin Cepeda\source\repos\PlainDigitalSignatureApi\Repositories\obj\Release\net6.0\Repositories.csproj.CoreCompileInputs.cache
